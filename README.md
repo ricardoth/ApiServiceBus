@@ -1,7 +1,7 @@
 # ApiServiceBus
 Proyecto API  Para pruebas de concepto conexión servicios de Azure
 
-## Técnologías
+## Tecnologías
 API - .NET6
 Azure Service Bus
 Azure Service Bus Queues
