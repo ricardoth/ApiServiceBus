@@ -5,7 +5,7 @@ using Microsoft.Extensions.Logging;
 
 namespace AzFunctionServiceBus
 {
-    public static class Function1
+    public static class LectorTopicQueyeFunction
     {
         //private readonly ILogger<Function1> _logger;
 
